@@ -10,7 +10,7 @@
 
 Storm Retail (SE Asian e-commerce) faces a chargeback rate spike from 0.4% → 2.8%, approaching the critical 3% threshold that triggers acquirer account freeze and costs ~$35,000/month in dispute fees. This solution shifts the fraud team from **reactive** (post-shipment review) to **predictive** (pre-fulfillment scoring).
 
-Challenge file: `/Users/cristianhurtado/Documents/Yuno/Challenge/The_Chargeback_Tsunami.md`
+Challenge file: `Challenge/The_Chargeback_Tsunami.md`
 
 ---
 

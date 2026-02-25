@@ -149,7 +149,7 @@ The system is composed of three discrete stages: data preparation, model trainin
 
 Real Storm Retail transaction data was unavailable. Real labeled fraud datasets are also rarely accessible due to PII sensitivity, legal constraints, and the fact that chargebacks are not labeled at transaction time but only after the 60–120 day dispute window closes. Synthetic data allows complete control over fraud signal density and cluster structure, making it possible to build a demonstrable system within the challenge constraints while ensuring the model has enough minority-class examples to learn from.
 
-The generator in `/Users/cristianhurtado/Documents/Yuno/Challenge/solution/data/generate_data.py` uses a fixed random seed (`SEED = 42`) across both `numpy.random.default_rng` and Python's `random` module, ensuring fully reproducible output.
+The generator in `Challenge/solution/data/generate_data.py` uses a fixed random seed (`SEED = 42`) across both `numpy.random.default_rng` and Python's `random` module, ensuring fully reproducible output.
 
 ### Fraud Cluster Design
 
